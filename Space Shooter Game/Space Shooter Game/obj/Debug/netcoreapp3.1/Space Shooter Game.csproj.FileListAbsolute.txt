@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\Space Shooter Game.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\Space Shooter Game_MarkupCompile.cache
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\bin\Debug\netcoreapp3.1\Space Shooter Game.exe
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\bin\Debug\netcoreapp3.1\Space Shooter Game.deps.json
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\bin\Debug\netcoreapp3.1\Space Shooter Game.runtimeconfig.json
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\bin\Debug\netcoreapp3.1\Space Shooter Game.runtimeconfig.dev.json
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\bin\Debug\netcoreapp3.1\Space Shooter Game.dll
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\bin\Debug\netcoreapp3.1\Space Shooter Game.pdb
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\Space Shooter Game_MarkupCompile.lref
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\Space Shooter Game.g.resources
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\Space Shooter Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\Space Shooter Game.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\Space Shooter Game.AssemblyInfo.cs
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\Space Shooter Game.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\Space Shooter Game.dll
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\Space Shooter Game.pdb
+C:\Users\user\source\repos\Space Shooter Game\Space Shooter Game\obj\Debug\netcoreapp3.1\Space Shooter Game.genruntimeconfig.cache
